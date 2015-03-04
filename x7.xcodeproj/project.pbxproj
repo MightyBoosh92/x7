@@ -13,6 +13,7 @@
 		39D414BD1A70777700AD33A5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 39D414BC1A70777700AD33A5 /* Images.xcassets */; };
 		39D414C01A70777700AD33A5 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 39D414BE1A70777700AD33A5 /* LaunchScreen.xib */; };
 		39D414CC1A70777800AD33A5 /* Cat_YearsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39D414CB1A70777800AD33A5 /* Cat_YearsTests.swift */; };
+		39D414D61A707DAA00AD33A5 /* calculator.png in Resources */ = {isa = PBXBuildFile; fileRef = 39D414D51A707DAA00AD33A5 /* calculator.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		39D414C51A70777700AD33A5 /* Cat YearsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Cat YearsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		39D414CA1A70777800AD33A5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		39D414CB1A70777800AD33A5 /* Cat_YearsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cat_YearsTests.swift; sourceTree = "<group>"; };
+		39D414D51A707DAA00AD33A5 /* calculator.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = calculator.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				39D414B51A70777600AD33A5 /* AppDelegate.swift */,
 				39D414B71A70777700AD33A5 /* ViewController.swift */,
 				39D414B91A70777700AD33A5 /* Main.storyboard */,
+				39D414D51A707DAA00AD33A5 /* calculator.png */,
 				39D414BC1A70777700AD33A5 /* Images.xcassets */,
 				39D414BE1A70777700AD33A5 /* LaunchScreen.xib */,
 				39D414B31A70777600AD33A5 /* Supporting Files */,
@@ -195,6 +198,7 @@
 				39D414BB1A70777700AD33A5 /* Main.storyboard in Resources */,
 				39D414C01A70777700AD33A5 /* LaunchScreen.xib in Resources */,
 				39D414BD1A70777700AD33A5 /* Images.xcassets in Resources */,
+				39D414D61A707DAA00AD33A5 /* calculator.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
